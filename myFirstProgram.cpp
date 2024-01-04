@@ -30,3 +30,17 @@ int main(){
     int min = -2147483648; // it is the minimum limit
     cout<< min<< endl;
 }
+
+
+/*
+This is the docs file: 
+
+ Text
+String = "My country name is Bangladesh"
+Character = 'f'
+Number: 
+	int ( integer ) = 100,32,242,235,234,2344,-200,-234,0
+	float( floating ) = 10.23, -234.223
+	double = 120.234423423423423
+
+*/
