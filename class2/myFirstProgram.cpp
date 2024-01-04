@@ -15,7 +15,7 @@ int main(){
 
     float f = 189.234232342; // 4 byte
 
-
+    
     // this function is used for get how much memory consume each data
      cout<< sizeof(float) << endl;  
      cout<< sizeof(int) << endl;  
