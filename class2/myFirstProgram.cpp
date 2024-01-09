@@ -23,7 +23,7 @@ int main(){
 
     cout << f << endl;
 
-    int maxx=2147483647; // 10^9 is the max limit
+    int maxx= 2147483647; // 10^9 is the max limit
 
     cout<<maxx<<endl;
 
